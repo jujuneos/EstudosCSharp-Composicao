@@ -1,0 +1,13 @@
+/home/jujuneos/Área de Trabalho/Studying/ExeComp2/bin/Debug/netcoreapp3.1/ExeComp2
+/home/jujuneos/Área de Trabalho/Studying/ExeComp2/bin/Debug/netcoreapp3.1/ExeComp2.deps.json
+/home/jujuneos/Área de Trabalho/Studying/ExeComp2/bin/Debug/netcoreapp3.1/ExeComp2.runtimeconfig.json
+/home/jujuneos/Área de Trabalho/Studying/ExeComp2/bin/Debug/netcoreapp3.1/ExeComp2.runtimeconfig.dev.json
+/home/jujuneos/Área de Trabalho/Studying/ExeComp2/bin/Debug/netcoreapp3.1/ExeComp2.dll
+/home/jujuneos/Área de Trabalho/Studying/ExeComp2/bin/Debug/netcoreapp3.1/ExeComp2.pdb
+/home/jujuneos/Área de Trabalho/Studying/ExeComp2/obj/Debug/netcoreapp3.1/ExeComp2.csprojAssemblyReference.cache
+/home/jujuneos/Área de Trabalho/Studying/ExeComp2/obj/Debug/netcoreapp3.1/ExeComp2.AssemblyInfoInputs.cache
+/home/jujuneos/Área de Trabalho/Studying/ExeComp2/obj/Debug/netcoreapp3.1/ExeComp2.AssemblyInfo.cs
+/home/jujuneos/Área de Trabalho/Studying/ExeComp2/obj/Debug/netcoreapp3.1/ExeComp2.csproj.CoreCompileInputs.cache
+/home/jujuneos/Área de Trabalho/Studying/ExeComp2/obj/Debug/netcoreapp3.1/ExeComp2.dll
+/home/jujuneos/Área de Trabalho/Studying/ExeComp2/obj/Debug/netcoreapp3.1/ExeComp2.pdb
+/home/jujuneos/Área de Trabalho/Studying/ExeComp2/obj/Debug/netcoreapp3.1/ExeComp2.genruntimeconfig.cache
